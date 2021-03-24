@@ -1,0 +1,7 @@
+C:\Users\demia\source\repos\CAI\Ejercicio-5\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.exe.config
+C:\Users\demia\source\repos\CAI\Ejercicio-5\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.exe
+C:\Users\demia\source\repos\CAI\Ejercicio-5\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.pdb
+C:\Users\demia\source\repos\CAI\Ejercicio-5\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.csprojAssemblyReference.cache
+C:\Users\demia\source\repos\CAI\Ejercicio-5\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\demia\source\repos\CAI\Ejercicio-5\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.exe
+C:\Users\demia\source\repos\CAI\Ejercicio-5\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.pdb
